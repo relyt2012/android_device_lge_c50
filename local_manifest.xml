@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-     <project path="device/lge/c50" name="relyt2012/android_device_lge_c50" remote="github" revision="aosp5.1" />
+     <project path="device/lge/c50" name="relyt2012/android_device_lge_c50" remote="github" revision="cm-12.1" />
      <project path="vendor/lge/c50" name="relyt2012/proprietary_vendor_lge_c50" remote="github" revision="cm-12.1" />
      <project path="device/lge/c50-common" name="relyt2012/android_device_lge_c50-common" remote="github" revision="cm-12.1" />
      <project path="kernel/lge/c50" name="relyt2012/Android_kernel_lge_C50" remote="github" revision="cm-12.1" />
